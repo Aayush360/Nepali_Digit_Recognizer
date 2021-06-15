@@ -1,0 +1,86 @@
+body {
+font-family: 'Just Another Hand', cursive;
+background-color: #26c6da;
+width: 100%;
+background-position: top;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+/* TODO: Styling by html elemnt: add styling for h1 and h2 */
+h1{
+  font-weight: 400;
+  font-size: 75px;
+}
+h2{
+  font-weight: 400;
+  font-size: 120px;
+}
+h3{
+  font-weight: 400;
+  font-size: 100px;
+  color: #a7ffeb;
+
+}
+
+h4{
+  font-weight: 400;
+  font-size: 25px;
+  color: #a7ffeb;
+
+}
+h5{
+  font-weight: 400;
+  font-size: 25px;
+  color: #ec407a;
+
+}
+
+#title{
+  color: #dce775;
+  line-height: 100px;
+}
+
+/* TODO: Styling by id: add styling for #title */
+
+#question {
+  display: inline;
+  color: #FFFFFF;
+}
+
+/* TODO: Styling by id: add styling for canvas */
+
+
+#my-canvas{
+  vertical-align: top;
+  display: inline;
+  border: 5px solid white;
+
+
+}
+.container {
+  text-align: center;
+  margin: 30px auto;
+}
+
+.btn {
+  margin: 10px;
+	background-color:#FFFFFF;
+	border-radius:20px;
+  border-width: 0;
+	cursor:pointer;
+	color:#00b8d4;
+  line-height: 50px;
+	font-family:'Just Another Hand', cursive;
+	font-size:20px;
+  letter-spacing: 3px;
+	padding:13px 32px 0 32px;
+  text-align: center;
+	text-decoration:none;
+}
+
+/* TODO: Styling by class: add Styling for button on hover */
+.btn:hover{
+  background-color: #26c6da ;
+  color: white;
+}
