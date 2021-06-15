@@ -11,3 +11,8 @@ The dataset is the subset of nepali handwritten digit from :
 }
  
  I have trained it using MultiLayer Perceptron with 3 hidden layers (512x1024x512) and got 98.37% accuracy on test set.
+
+Webapp is available at:  https://aayush360.github.io/Nepali_Digit_Recognizer/
+
+
+![Screen Shot 2021-06-15 at 22 00 01](https://user-images.githubusercontent.com/16781245/122088028-19639300-ce25-11eb-94b0-84fa29a4b797.png)
